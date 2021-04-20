@@ -19,7 +19,7 @@ function init() {
 	let server = prompt('server');
 
 	const container = document.createElement('div');
-	container.style.width = '75%';
+	container.style.width = '95%';
 	container.style.position = 'absolute';
 	container.style.top = '0';
 	container.style.left = '50%';
