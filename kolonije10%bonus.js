@@ -30,7 +30,7 @@ function init() {
 	const container = document.createElement('div');
 	container.style.width = '90%';
 	container.style.position = 'absolute';
-	container.style.top = '0';
+	container.style.top = '90';
 	container.style.left = '50%';
 	container.style.transform = 'translateX(-50%)';
 	container.style.background = 'white';
