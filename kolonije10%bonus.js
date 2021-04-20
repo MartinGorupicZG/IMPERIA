@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name       Bonus10%
-// @namespace  Carlinjo
-// @version    0.1
-// @description Search for colonies
-// @match      https://*.imperiaonline.org/imperia/game_v5/game/villagejs.php*
-// @copyright  2021, You
-// ==/UserScript==
+	// @name       FreeColony
+	// @namespace  Carlinjo
+	// @version    0.1
+	// @description Search for colonies
+	// @match      https://*.imperiaonline.org/imperia/game_v5/game/villagejs.php*
+	// @copyright  2021, You
+	// ==/UserScript==
 
 var user = btoa(playerName);
 
