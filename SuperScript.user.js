@@ -9,7 +9,7 @@
 
 const user = btoa(playerName);
 
-if (user === 'Y2FybGluam8=') {
+if (user === 'SXZhbkdyb3puaTY5') {
 	init();
 } else {
 	alert('Neovlašteni Korisnik');
